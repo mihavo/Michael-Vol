@@ -1,8 +1,8 @@
 ### Hello there, I'm Michael :wave:
-<a href=''> <img height="32" width="32"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
+<a href='https://twitter.com/michael_vks'> <img height="32" width="32"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
-<a href=''><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
-<a href=''><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
+<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/'><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
+<a href='mailto:mivolakis@gmail.com'><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
 
 ---
 
@@ -37,9 +37,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 #### :chart_with_upwards_trend: My Github Statistics
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&theme=github_dark)
 
 
 
-
-#### :postbox: Reach me at: 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src='https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&theme=default' />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Vol'/>
+</a>
