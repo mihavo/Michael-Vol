@@ -1,9 +1,11 @@
-# Hello there, I'm Michael :wave:
+# Hello there, I'm Michael! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" >
 
-<a href='https://twitter.com/michael_vks'> <img height="22" width="22"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
+<p align='center'>
+<a href='https://twitter.com/michael_vks' target='_blank'> <img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
-<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/'><img height="22" width="22" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
-<a href='mailto:mivolakis@gmail.com'><img height="22" width="22" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
+<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
+<a href='mailto:mivolakis@gmail.com' target='_blank'><img align='center' height="26"  width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
+ </p>
 
  <img align='right'   src='media/coding_animation.gif' width='340' alt='Coding Animation'  />
 
@@ -39,9 +41,6 @@
 
 
 ### :chart_with_upwards_trend: My Github Statistics
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&hide_title=true&count_private=true)
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src='https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true'/>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michael-Vol)](https://git.io/streak-stats)
