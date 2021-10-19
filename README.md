@@ -18,6 +18,12 @@
 -   :books: I'm always pursuing new frameworks and tech stacks.
 
 
+### :pencil2: Projects I've Worked On
+
+- [WorkNet](https://michaelvol-worknet.herokuapp.com), a social networking platform for professionals.
+- [Weather App](https://github.com/Michael-Vol/WeatherApp), a simple weather app built in vanilla JS.
+
+
 ###  :hammer_and_wrench: Languages and Tools I use  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
