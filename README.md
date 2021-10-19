@@ -1,17 +1,14 @@
- <img    src='media/greeting.gif' alt='Greeting' style='margin-bottom: 20px;' />
+# Hello there, I'm Michael :wave:
 
-<!-- 
-<a href='https://twitter.com/michael_vks'> <img height="32" width="32"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
+<a href='https://twitter.com/michael_vks'> <img height="22" width="22"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
-<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/'><img height="32" width="32" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
-<a href='mailto:mivolakis@gmail.com'><img height="32" width="32" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a> -->
-
-
+<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/'><img height="22" width="22" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
+<a href='mailto:mivolakis@gmail.com'><img height="22" width="22" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
 
  <img align='right'   src='media/coding_animation.gif' width='340' alt='Coding Animation'  />
 
 
-#### About Me
+### About Me
 
 -   :mortar_board: I'm currently studying Computer Science at the University of Athens (DIT, UoA).
 -   :seedling: I'm currently learning JavaScript for Frontend and Backend Web Apps.
@@ -19,7 +16,7 @@
 -   :books: I'm always pursuing new frameworks and tech stacks.
 
 
-####  :hammer_and_wrench: Languages and Tools I use  
+###  :hammer_and_wrench: Languages and Tools I use  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,7 +35,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-#### :chart_with_upwards_trend: My Github Statistics
+
+
+
+### :chart_with_upwards_trend: My Github Statistics
 
 
 
