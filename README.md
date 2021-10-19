@@ -1,12 +1,14 @@
-### Hello there, I'm Michael :wave:
+ <img    src='media/greeting.gif' alt='Greeting' style='margin-bottom: 20px;' />
+
+<!-- 
 <a href='https://twitter.com/michael_vks'> <img height="32" width="32"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
-<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/'><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
-<a href='mailto:mivolakis@gmail.com'><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
+<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/'><img height="32" width="32" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
+<a href='mailto:mivolakis@gmail.com'><img height="32" width="32" style='margin-left: 26px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a> -->
 
----
 
- <img align='right'   src='media/image_processing20210918-17862-nvbxxl.gif' width='340' alt='Coding Animation'  />
+
+ <img align='right'   src='media/coding_animation.gif' width='340' alt='Coding Animation'  />
 
 
 #### About Me
@@ -41,8 +43,5 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src='https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&theme=default' />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Vol'/>
+  <img align="left" src='https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true'/>
 </a>
