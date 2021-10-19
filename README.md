@@ -1,9 +1,10 @@
 ### Hello there, I'm Michael :wave:
+<a href=''> <img height="32" width="32"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
+</a>
+<a href=''><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
+<a href=''><img height="32" width="32" style='margin-left: 16px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
 
 ---
-
-
-
 
  <img align='right'   src='media/image_processing20210918-17862-nvbxxl.gif' width='340' alt='Coding Animation'  />
 
@@ -35,13 +36,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-#### :postbox: Reach me at: 
- <a href='https://twitter.com/michael_vks'> <i class="bi bi- bi-twitter" style="font-size: 22px; margin: 6px;"></i> </a>
-  <a href='https://www.linkedin.com/in/michael-volakis-b2195214a/'> <i class="bi bi- bi-linkedin" style="font-size: 22px;  margin: 6px;"></i> </a>
-   <a href='mailto:mivolakis@gmail.com'><i class="bi bi- bi-envelope" style="font-size: 22px;  margin: 6px;"></i> </a>
-
 #### :chart_with_upwards_trend: My Github Statistics
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&theme=github_dark)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css">
+
+
+
+#### :postbox: Reach me at: 
