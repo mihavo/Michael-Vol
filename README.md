@@ -12,11 +12,10 @@
 
 ### About Me
 
--   :mortar_board: I'm currently studying Computer Science at the University of Athens (DIT, UoA).
--   :seedling: I'm currently learning JavaScript for Frontend and Backend Web Apps.
+-   :mortar_board: I'm studying Computer Science at the University of Athens (DIT, UoA).
+-   :seedling: I'm currently learning NextJS and Docker.
 -   :bulb: My Areas of Interest are Progressive Web Apps, Serverless Architecture and all things IoT.
 -   :books: I'm always pursuing new frameworks and tech stacks.
-
 
 ### :pencil2: Projects I've Worked On
 
