@@ -3,7 +3,7 @@
 <p align='center'>
 <a href='https://twitter.com/michael_vks' target='_blank'> <img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
-<a href='https://www.linkedin.com/in/michael-volakis-b2195214a/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
+<a href='https://www.linkedin.com/in/michaelvolakis/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
 <a href='mailto:mivolakis@gmail.com' target='_blank'><img align='center' height="26"  width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
  </p>
 
