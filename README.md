@@ -13,7 +13,7 @@
 ### About Me
 
 -   :mortar_board: I'm studying Computer Science at the University of Athens (DIT, UoA).
--   :seedling: I'm currently learning NextJS and Docker.
+-   :seedling: I'm currently working on [Conduit](https://github.com/ConduitPlatform/Conduit), a NodeJS BaaS platform.
 -   :bulb: My Areas of Interest are Progressive Web Apps, Serverless Architecture and all things IoT.
 -   :books: I'm always pursuing new frameworks and tech stacks.
 
