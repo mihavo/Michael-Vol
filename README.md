@@ -48,6 +48,6 @@
 
 
 ### :chart_with_upwards_trend: My Github Statistics
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&hide_title=true&count_private=true)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michael-Vol)](https://git.io/streak-stats)
+[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelvol&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
