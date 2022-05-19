@@ -6,9 +6,7 @@
 <a href='https://www.linkedin.com/in/michaelvolakis/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
 <a href='mailto:mivolakis@gmail.com' target='_blank'><img align='center' height="26"  width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
  </p>
-<p align="center">
- <img align='right' width="45%"  src='media/coding_animation.gif' alt='Coding Animation'  />
-
+ <img align='right'  width="500" height="320"  src='media/coding_animation.gif' alt='Coding Animation'  />
 
 ### About Me
 
@@ -16,7 +14,6 @@
 -   :seedling: I'm currently working on [Conduit](https://github.com/ConduitPlatform/Conduit), a NodeJS BaaS platform.
 -   :bulb: My Areas of Interest are Progressive Web Apps, Serverless Architecture and all things IoT.
 -   :books: I'm always pursuing new frameworks and tech stacks.
-</p>
 
 ### :pencil2: Projects I've Worked On
 
@@ -51,4 +48,4 @@
 ### :chart_with_upwards_trend: My Github Statistics
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Vol&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark)
 
-<!-- [![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelvol&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelvol&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
