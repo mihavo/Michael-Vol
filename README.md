@@ -6,7 +6,7 @@
 <a href='https://www.linkedin.com/in/michaelvolakis/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
 <a href='mailto:mivolakis@gmail.com' target='_blank'><img align='center' height="26"  width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
  </p>
-<p align="center">
+<p float="right">
  <img align='right' style='display: inline; !important' width="45%"  src='media/coding_animation.gif' alt='Coding Animation'  />
 
 
