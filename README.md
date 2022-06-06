@@ -1,4 +1,4 @@
-# Hello there, I'm Michael! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+# Hello there, I'm Michael! :wave:
 
 <p align='center'>
 <a href='https://twitter.com/michael_vks' target='_blank'> <img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
