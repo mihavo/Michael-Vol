@@ -13,9 +13,8 @@
 ### About Me
 
 -   :mortar_board: I'm studying Computer Science at the University of Athens (DIT, UoA).
--   :seedling: I'm currently working on [Conduit](https://github.com/ConduitPlatform/Conduit), a NodeJS BaaS platform.
--   :bulb: My Areas of Interest are Progressive Web Apps, Serverless Architecture and all things IoT.
--   :books: I'm always pursuing new frameworks and tech stacks.
+-   :bulb: My Areas of Interest are Backend Web Applications, Backend System Architecture and CI/CD.
+-   :books: I'm always pursuing new ways to improve my skills and learn new things on Web Development.
 </p>
 
 ### :pencil2: Projects I've Worked On
