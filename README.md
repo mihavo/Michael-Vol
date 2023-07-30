@@ -1,10 +1,10 @@
 # Hello there, I'm Michael! :wave:
 
-<p align='center'>
-<a href='https://twitter.com/michael_vks' target='_blank'> <img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
+<p align='left'>
+<a href='https://twitter.com/michael_vks' target='_blank'> <img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
-<a href='https://www.linkedin.com/in/michaelvolakis/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
-<a href='mailto:mivolakis@gmail.com' target='_blank'><img align='center' height="26"  width="26" style='margin-right: 16px;'  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/minutemailer.svg" /> </a>
+<a href='https://www.linkedin.com/in/michaelvolakis/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="28" style='margin-right: 16px;'  src="https://www.svgrepo.com/show/448234/linkedin.svg" /> </a>
+<a href='mailto:mivolakis@gmail.com' target='_blank'><img align='center' height="26"  width="26" style='margin-right: 16px;'  src="https://www.svgrepo.com/show/295315/at-sign-at.svg" /> </a>
  </p>
 <p float="right">
  <img align='right' style='display: inline; !important' width="45%"  src='media/coding_animation.gif' alt='Coding Animation'  />
