@@ -21,8 +21,8 @@
 ### :pencil2: Projects I've Worked On
 
 - [Atlacity](https://atlacity.vercel.app) - a [Foursquare](https://foursquare.com/city-guide) inspired full stack web app that allows users to search and discover for new places.
+- [Ecommerce API](https://github.com/Michael-Vol/ecommerce-api) - An Ecommerce API for handling the back-end logic of an e-shop. Provides support for user accounts, cart management, product handling, transactions and many more. 
 - [WorkNet](https://michaelvol-worknet.herokuapp.com), a social networking platform for professionals.
-  
 
 
 ###  :hammer_and_wrench: Languages and Tools I use  
