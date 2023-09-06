@@ -6,9 +6,6 @@
 <a href='https://www.linkedin.com/in/michaelvolakis/' target='_blank'><img align='center' height="26" style='margin-right: 16px;' width="28" style='margin-right: 16px;'  src="https://www.svgrepo.com/show/448234/linkedin.svg" /> </a>
 <a href='mailto:mivolakis@gmail.com' target='_blank'><img align='center' height="26"  width="26" style='margin-right: 16px;'  src="https://www.svgrepo.com/show/295315/at-sign-at.svg" /> </a>
  </p>
-<p float="right">
- <img align='right' style='display: inline; !important' width="45%"  src='media/coding_animation.gif' alt='Coding Animation'  />
-
 
 ### About Me
 
@@ -46,4 +43,4 @@
 
 
 ### :chart_with_upwards_trend: My Github Statistics
-![Michael's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Michael-Vol&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark)
+![Michael's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Michael-Vol&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=algolia)
